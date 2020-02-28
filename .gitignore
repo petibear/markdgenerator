@@ -103,6 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# Visual Studio Code 
+# Visual Studio Code
 .vscode/
 *.code-workspace
+
+Pipfile
+Pipfile.lock
