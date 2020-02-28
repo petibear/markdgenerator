@@ -1,6 +1,6 @@
 markdgenerator
 ==============
-This is a short library to help generate text in [pandoc markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) language with.
+This is a small library to help generate text in [pandoc markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) language with.
 
 So far, it supports:
 * h1, h2, h3 headings
@@ -53,5 +53,3 @@ This document lists prices of german cars.
 |mercedes|30000|
 +--------+-----+
 ```
-
-This can be passed to pandoc and converted to a different format.
